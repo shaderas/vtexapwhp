@@ -1,2 +1,2 @@
 # vtexapwhp
-API
+API criada para extrair informações referentes à REFUND.
