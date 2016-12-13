@@ -21,7 +21,7 @@ setup(
     namespace_packages=['vtex_client'],
     package_dir={'vtex_client': 'vtex_client'},
     install_requires=REQUIREMENTS,
-    download_url="https://github.com/shaderas/vtexapwhp/tarball/master",
+    download_url="https://github.com/shaderas/vtexapwhp/blob/master",
     classifiers=[
         "Development Status :: 0 - Development",
         "Topic :: Utilities",
