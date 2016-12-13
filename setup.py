@@ -11,7 +11,7 @@ REQUIREMENTS = ['requests']
 setup(
     name="vtex-client",
     version=vtex_client.__version__,
-    author="Onyo Inc (onyo.com)",
+    author="Shadi",
     author_email="geovanne.faria@jussi.com.br",
     description="Client to consume the VTEX API",
     license="MIT License",
